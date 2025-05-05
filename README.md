@@ -35,3 +35,6 @@ git diff
 ### Changes made 
 This are changes made in assignment 2
 
+## screenshot of pull request and merge
+![git log screenshot](task2.png)
+
