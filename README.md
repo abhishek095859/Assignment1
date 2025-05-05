@@ -26,7 +26,12 @@ git log
 ## git diff command to examine difference between versions of files 
 git diff 
 
+
+## Screen shot of git log output
+
+
 ![git log screenshot](Screenshot.png)
 
-
+### Changes made 
+This are changes made in assignment 2
 
